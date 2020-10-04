@@ -22,7 +22,7 @@ An analysis of the data was made in order to get insights about the various feat
 
 
 ### Model Building and Prediction
-As seen from the above figures, it data is highly imbalance with `Headache` as a minority class. In order to overcome this, several models have been build with hyper-parameter tuning and sampling techniques. The below figure shows the comparision of performance of different classifiers.
+As seen from the above figures, the data is highly imbalance with `Headache` as a minority class. In order to overcome this, several models have been build with hyper-parameter tuning and sampling techniques. The below figure shows the comparision of performance of different classifiers.
 ![performance](https://user-images.githubusercontent.com/20052459/95027532-a556d580-066f-11eb-98e8-0e2e472ca9d5.PNG)
 
 ### Team
