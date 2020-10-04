@@ -5,16 +5,19 @@ The project predicts the probability of a headache to a given student based on t
 ![Journal](https://user-images.githubusercontent.com/20052459/95027144-b6eaae00-066c-11eb-9f3b-a139533829da.PNG)
 
 The figure shows the workout schedule of a student. 
+
 ![workout](https://user-images.githubusercontent.com/20052459/95027194-0c26bf80-066d-11eb-903b-daf982633afe.PNG)
+
 ### Data pre-processing
 The weather data of Halifax has been obtained from [here](https://climate.weather.gc.ca/). The site contains the weather data from several stations in Halifax. The data from all the stations has been collected and average values of all the stations has been used to make the training data. The prediction was made using weather data from Sept. 01, 2020 to Sept.30, 2020. 
 
 ### Descriptive Analysis
 An analysis of the data was made in order to get insights about the various features. The following figures shows some of the analysis carried out. Refer `Code.ipynb` notebook for more analysis.
 
-![image](https://user-images.githubusercontent.com/20052459/95027340-1d240080-066e-11eb-89e1-152c870e9096.png)
-![image](https://user-images.githubusercontent.com/20052459/95027413-a20f1a00-066e-11eb-93a0-dd9e24e1cc69.png)
-![image](https://user-images.githubusercontent.com/20052459/95027419-ab988200-066e-11eb-8f2b-fbf2333415fc.png)
+![index_1](https://user-images.githubusercontent.com/20052459/95027641-8c9aef80-0670-11eb-8dbd-44daf6acd953.png)
+![index_2](https://user-images.githubusercontent.com/20052459/95027642-8d338600-0670-11eb-981c-d88f4fadf89a.png)
+![index](https://user-images.githubusercontent.com/20052459/95027643-8d338600-0670-11eb-9beb-2bb07d207631.png)
+
 
 ### Model Building and Prediction
 As seen from the above figures, it data is highly imbalance with `Headache` as a minority class. In order to overcome this, several models have been build with hyper-parameter tuning and sampling techniques. The below figure shows the comparision of performance of different classifiers.
