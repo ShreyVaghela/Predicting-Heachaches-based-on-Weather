@@ -1,1 +1,1 @@
-# Predicting-Heachaches-based-on-Weather
+# Predicting-Headaches-based-on-Weather
