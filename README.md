@@ -1,6 +1,8 @@
 # Predicting-Headaches-based-on-Weather
 
-The project predicts the probability of a headache to a given student based on the weather conditions of Halifax and the work schedule. It was a group work and developed as part of the assignment towards the fulfillment of CSCI6515 - Machine Learning for Big Data. The below image shows the data about the occurence of headache. 
+The project predicts the probability of a headache to a given student based on the weather conditions of Halifax and the work schedule. It was a group work and developed as part of the assignment towards the fulfillment of CSCI6515 - Machine Learning for Big Data. 
+
+The below image shows the data about the occurence of headache. 
 
 ![Journal](https://user-images.githubusercontent.com/20052459/95027144-b6eaae00-066c-11eb-9f3b-a139533829da.PNG)
 
@@ -32,7 +34,11 @@ As seen from the above figures, it data is highly imbalance with `Headache` as a
 
 ### References
 Bach, M., Werner, A., Zywiec, J., & Pluskiewicz, W. (2017). ​The study of under- andover-sampling methods’ utility in analysis of highly imbalanced data on osteoporosis​.https://doi.org/​10.1016/j.ins.2016.09.038
+
 He H., & Garcia, E. A. (2009). Learning from Imbalanced Data. In ​IEEE Transactions onKnowledge and Data Engineering​ (Vol. 21, Issue 9, pp. 1263–1284).https://doi.org/​10.1109/tkde.2008.239
+
 Khalid S., Khalil, T., & Nasreen, S. (2014). ​A survey of feature selection and feature extractiontechniques in machine learning​.http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6918213Prince
+
 P. B., Rapoport, A. M., Sheftell, F. D., Tepper, S. J., & Bigal, M. E. (2004). The effect ofweather on headache. ​Headache​, ​44​(6), 596–602.Shekar, B. H., & Dagnew, G. (2019). Grid Search-Based Hyperparameter Tuning andClassification of Microarray Cancer Data. In ​2019 Second International Conference onAdvanced Computational and Communication Paradigms (ICACCP)​.https://doi.org/​10.1109/icaccp.2019.8882943
+
 Towards AI Team. (2019, May 16). ​How, When, and Why Should You Normalize / Standardize /Rescale Your Data?​ Towards AI — The Best of Tech, Science, and Engineering.https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
